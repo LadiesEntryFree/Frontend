@@ -1,0 +1,12 @@
+.logoutBtn {
+    padding: 5px 10px;
+    background-color: aquamarine;
+    border: hidden;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+}
+
+.logoutIcon {
+    margin-left: 15px;
+}

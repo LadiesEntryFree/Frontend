@@ -1,0 +1,55 @@
+.object-item {
+    border: 2px solid lightgray;
+    width: 100%;
+    margin: 5px 0;
+    padding: 1rem 0;
+    display: flex;
+}
+.object-item > div {
+    flex: 1;
+    text-align: center;
+}
+
+.object-list {
+    width: 90%;
+}
+
+.object-list-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination-btn-wrapper {
+    width: 93%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pagination-btn-wrapper > div {
+    display: flex;
+}
+
+.arrow-btn {
+    cursor: pointer;
+}
+
+.filter-column-wrapper {
+    width: 100%;
+    display: flexbox;
+}
+.filter-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter-btn {
+    background-color: white;
+    border: 1px solid lightgray;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-left: 10px;
+}

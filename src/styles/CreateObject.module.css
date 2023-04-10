@@ -1,0 +1,41 @@
+.wrapper {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.wrapperHalf {
+    width: 48vw;
+    display: grid;
+    grid-gap: 10px;
+    height: fit-content;
+}
+
+.addMoreFieldsBtn {
+    cursor: pointer;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 0 3px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    margin-right: 20px;
+}
+
+.innerBtn {
+    background: none;
+    border: hidden;
+    cursor: pointer;
+}
+
+.dragNDrop {
+    border: 2px dashed lightgray;
+    width: 90%;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+}

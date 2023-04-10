@@ -1,0 +1,17 @@
+.userInfo {
+    width: 50%;
+    background-color: aqua;
+    padding: 5px 15px;
+    margin: 5px 0;
+    border-radius: 5px;    
+    display: flex;
+}
+
+.userInfo input {
+    flex: 2;
+    width: 100%;
+    padding: 5px 0;
+    outline: none;
+    background-color: aqua;
+    border: hidden;
+}

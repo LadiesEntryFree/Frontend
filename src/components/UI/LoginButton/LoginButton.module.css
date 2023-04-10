@@ -1,0 +1,12 @@
+.loginBtn {
+    padding: 5px 10px;
+    background-color: aquamarine;
+    border: hidden;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+}
+
+.loginIcon {
+    margin-left: 15px;
+}

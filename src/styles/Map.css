@@ -1,0 +1,23 @@
+.map-wrapper {
+    width: 25vw;
+    height: 25vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.map-btn {
+    background-color: white;
+    border: 1px solid lightgray;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin:10px;
+}
+
+.map {
+    width: 50vw;
+    height: 50vh;
+    margin-left: 25vw;
+    border: 2px solid gray; 
+    border-radius: 10px;
+}
